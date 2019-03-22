@@ -1,4 +1,4 @@
-# apostrophe-samples
+# Proyecto de prueba en Apostrophe
 
 This project is a working sample website that demonstrates many Apostrophe
 CMS development techniques. If you're a little lost after reading the

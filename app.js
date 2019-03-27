@@ -66,6 +66,30 @@ var apos = require('apostrophe')({
           ]
         }  
       ]
-    }
+    },
+    'apostrophe-workflow': {
+      locales: [
+        {
+          name: 'default',
+          label: 'Default',
+          private: true,
+          children: [
+            {
+              name: 'en-gb',
+              label: 'England'
+            },
+            {
+              name: 'es',
+              label: 'España'
+            }
+          ]
+        },
+      ],
+      defaultLocale: 'default',
+      // IMPORTANT: if you follow the examples below,
+      // be sure to set this
+      alias: 'workflow'
+    },
+    'apostrophe-workflow-modified-documents': {}
   }
 });

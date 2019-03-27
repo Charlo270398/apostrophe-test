@@ -1,0 +1,23 @@
+[2019-03-27 10:26:18.911] [sharedprocess] [info] main {"machineId":"880d0bd7e6929f7265832035a40fcfff126d2abebc5ac192303038e3ad84e830"}
+[2019-03-27 10:26:18.961] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-27 10:26:18.978] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-27 10:26:18.979] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-27 10:26:19.005] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-27 10:26:19.009] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-27 10:26:19.011] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-27 10:26:19.588] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-27 10:26:20.512] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2019-03-27 10:26:20.514] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2019-03-27 10:26:20.518] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-27 10:26:20.519] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-27 10:26:21.009] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/7f87b4f4-6290-4bee-8c32-e520d3ce5d00
+[2019-03-27 10:26:21.059] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /tmp/f2c0a367-0207-4c46-959a-22c0f7c8f52c
+[2019-03-27 10:26:21.512] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.pkief.material-icon-theme-3.7.0: pkief.material-icon-theme
+[2019-03-27 10:26:21.513] [sharedprocess] [info] Renamed to /root/.vscode/extensions/pkief.material-icon-theme-3.7.0
+[2019-03-27 10:26:21.513] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2019-03-27 10:26:21.519] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2019-03-27 10:26:22.167] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vscode-icons-team.vscode-icons-8.4.0: vscode-icons-team.vscode-icons
+[2019-03-27 10:26:22.167] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vscode-icons-team.vscode-icons-8.4.0
+[2019-03-27 10:26:22.168] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2019-03-27 10:26:22.174] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2019-03-27 10:26:58.921] [sharedprocess] [info] Starting to clean up unused language packs.
